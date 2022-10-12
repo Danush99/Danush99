@@ -29,9 +29,9 @@
 
 <p align="center">
 
-[![Akila-I's GitHub stats](https://github-readme-stats.vercel.app/api?username=akila-i&theme=vision-friendly-dark)](https://github.com/akila-i/github-readme-stats)
+[![Danusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danusha99&theme=vision-friendly-dark)](https://github.com/Danusha99/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akila-i&layout=compact&theme=vision-friendly-dark)](https://github.com/akila-i/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danusha99&layout=compact&theme=vision-friendly-dark)](https://github.com/Danush99/github-readme-stats)
 
 </p>
 
