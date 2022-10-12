@@ -2,7 +2,7 @@
     Hi there 👋, I'm Danusha Hewagama
 </h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/akila-i">
+    <a href="https://www.linkedin.com/in/danusha-hewagama/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/>
     </a>
 </p>
