@@ -1,3 +1,8 @@
+### Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am Danusha Hewagama
+![GitHub followers](https://img.shields.io/github/followers/danush99?label=Followers&logo=GitHub)
+![GitHub User's stars](https://img.shields.io/github/stars/danush99?logo=github)
+![](https://komarev.com/ghpvc/?username=danush99&color=blue)
+
 # 💫 About Me:
 🖥️ I’m currently studying at the Department of Computer Science and Engineering at the University of Moratuwa<br>📡 I’m exploring web & mobile development frameworks and full-stack technologies.<br>🔍 Exploring testing methodologies, quality assurance, and software reliability.<br>💞️ I’m looking to collaborate on open-source projects<br>📫 2024 Goal: Analyzing and understanding game development frameworks.<br>📸 Photography is my creative outlet outside of coding.
 
