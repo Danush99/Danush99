@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=danush99&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🖥️ I’m currently studying at the Department of Computer Science and Engineering at the University of Moratuwa<br>📡 I’m exploring web & mobile development frameworks and full-stack technologies.<br>🔍 Exploring testing methodologies, quality assurance, and software reliability.<br>💞️ I’m looking to collaborate on open-source projects<br>📫 2024 Goal: Analyzing and understanding game development frameworks.<br>📸 Photography is my creative outlet outside of coding.
+Accomplished iOS Engineer with 2 years of progressive experience in building high-quality, performance-driven mobile applications. I specialize in contributing to cross-functional teams throughout the complete software development lifecycle, from initial concept and architectural planning to hands-on development, testing, and deployment. Renowned for delivering robust and scalable solutions across globally deployed systems, I emphasize clean architecture, optimized performance, and exceptional user experience across Apple platforms.
 
 
 # 📊 GitHub Stats:
